@@ -1,0 +1,12 @@
+.invoice-header{
+    text-align: left;
+    max-width: 350px;
+}
+
+.invoice-header-right{
+    float: right;
+}
+
+.invoice-field{
+    margin-bottom: 14px;    
+}
